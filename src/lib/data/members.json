@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Jane Doe",
+		"role": "Lead Developer",
+		"bio": "Building systems that scale."
+	},
+	{
+		"name": "Alex Kim",
+		"role": "Designer",
+		"bio": "Crafting intuitive interfaces."
+	},
+	{
+		"name": "Sam Rivera",
+		"role": "Researcher",
+		"bio": "Exploring what comes next."
+	}
+]

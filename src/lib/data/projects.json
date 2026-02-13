@@ -1,0 +1,23 @@
+[
+	{
+		"title": "Project Alpha",
+		"description": "Automated workflow management for distributed teams.",
+		"status": "Active",
+		"tags": ["automation", "tooling"],
+		"link": "#"
+	},
+	{
+		"title": "Project Beta",
+		"description": "Research into next-generation interface patterns.",
+		"status": "In Progress",
+		"tags": ["research", "design"],
+		"link": "#"
+	},
+	{
+		"title": "Project Gamma",
+		"description": "Open-source data pipeline framework.",
+		"status": "Completed",
+		"tags": ["open-source", "data"],
+		"link": "#"
+	}
+]
